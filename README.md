@@ -64,15 +64,15 @@ HEW University's Career Services Center supports more than 12,000 students but r
 ### Milestones
 | # | Milestone | Deliverables | Target |
 |---|---|---|---|
-| 1 | Project Kickoff | Charter, GitHub repo and project board | Week 1 |
-| 2 | Requirements | Stakeholder interviews, user stories | Week 3 |
-| 3 | Design | System design, data model, wireframes | Week 5 |
-| 4 | Sprint 1 | Student profile upload | Week 7 |
-| 5 | Sprint 2 | Job portal and matching algorithm | Week 9 |
-| 6 | Sprint 3 | Skill-gap and admin dashboards | Week 11 |
-| 7 | Testing | QA testing and user acceptance testing | Week 13 |
-| 8 | Pilot Launch | Pilot with one college and 10 employers | Week 14 |
-| 9 | Closeout | Final report and lessons learned | Week 15 |
+| 1 | Project Kickoff | Charter, GitHub repo and project board | Sep 18, 2026 |
+| 2 | Requirements | Stakeholder interviews, user stories | Oct 2, 2026 |
+| 3 | Design | System design, data model, wireframes | Oct 16, 2026 |
+| 4 | Sprint 1 | Student profile upload | Oct 30, 2026 |
+| 5 | Sprint 2 | Job portal and matching algorithm | Nov 13, 2026 |
+| 6 | Sprint 3 | Skill-gap and admin dashboards | Nov 25, 2026 |
+| 7 | Testing | QA testing and user acceptance testing | Dec 4, 2026 |
+| 8 | Pilot Launch | Pilot with one college and 10 employers | Dec 8, 2026 |
+| 9 | Closeout | Final report and lessons learned | Dec 9, 2026 |
 
 ---
 
